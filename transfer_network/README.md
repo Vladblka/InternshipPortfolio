@@ -1,0 +1,1 @@
+Для скачивания весов для ResNet50: https://download.pytorch.org/models/resnet50-0676ba61.pth

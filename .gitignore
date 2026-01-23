@@ -1,0 +1,8 @@
+style_network/vgg19-dcbb9e9d.pth
+transfer_network/resnet50-0676ba61.pth
+transfer_network/dogs-1
+RNN_model/model_rnn_bidir.tar
+RNN_model/navec_hudlit_v1_12B_500K_300d_100q.tar
+Segmentation_network(u-net)/model_seg.tar
+transfer_network/best_model.pth
+style_network/best_style_model.pth
